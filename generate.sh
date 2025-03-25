@@ -1,11 +1,11 @@
 #! /bin/bash
-FILE_NAME=sandbox.se
+FILE_NAME=programmeramera.se
 COUNTRY_CODE=SE
 STATE=Stockholm
 LOCATION=Stockholm
-ORGANIZATION="Sandbox AB"
+ORGANIZATION="Coderox AB"
 ORGANIZATION_UNIT=IT
-DOMAIN=sandbox.se
+DOMAIN=programmeramera.se
 
 # Generate a new private key and a certificate request
 openssl req -new \

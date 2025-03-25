@@ -1,0 +1,3 @@
+crontab -e
+
+*/5  * * * * /usr/bin/sh /home/johan/github.com/coderox/sftpgo-sandbox/sync.sh
